@@ -2,7 +2,7 @@
 int main()
 { int n,k,rem,rev=0;
 scanf("%d",&n);
- n=k;
+ k=n;
  while(n!=0)
  {
   rem=n%10;
